@@ -12,11 +12,13 @@ Hi, I'm Hernan. I'm a Computer Scientist and Industrial Engineer with 5 years of
 
 In the past, I worked as a Data Scientist and Research Assistant at the Complex Systems of Engineering Institute from the University of Chile.
 
+[[CV](https://hernanlira.github.io/files/cv.pdf)]
+
 News
 ======
 - (2019, December). I finished the Master in Computer Science program at KAIST.
 - (2019, September). Our paper "Simultaneous feature selection and heterogeneity control for SVM classification: An application to mental workload assessment" was accepted in the journal Expert systems with applications.
-- (2019, June).
+- (2019, June). Our paper "Environment-aware and Human-centric Software Testing Framework for Cyber-Physical Systems" was accepted at the 2nd International Workshop on Maturity of Web Engineering Practices (MATWEP 2019), ICWS. Daejeon, Rep. of Korea.
 
 Education
 ======
