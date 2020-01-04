@@ -18,6 +18,7 @@ In the past, I worked as a Data Scientist and Research Assistant at the Complex 
 
 News
 ======
+- (2020, March). I'll be joining the Web Science and Smart Technologies (Wesst) Lab. at the University of Chile.
 - (2019, December). I finished the Master program in Computer Science at KAIST.
 - (2019, September). Our paper "Simultaneous feature selection and heterogeneity control for SVM classification: An application to mental workload assessment" was accepted in the journal Expert systems with applications.
 - (2019, June). Our paper "Environment-aware and Human-centric Software Testing Framework for Cyber-Physical Systems" was accepted at the 2nd International Workshop on Maturity of Web Engineering Practices (MATWEP 2019), ICWS. Daejeon, Rep. of Korea.
