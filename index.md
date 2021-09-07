@@ -8,16 +8,14 @@
 layout: home
 ---
 
-![Hernan](/assets/images/hernan.jpg){:class="img-responsive"}{:height="280px" width="280px"}{:style="float: right; margin-right: 5px"}
+![Hernan](/assets/images/hernan.jpg){:class="img-responsive"}{:height="200px" width="200px"}{:style="float: right; margin-right: 5px"}
 Hi! Thank you for visiting my personal web page. I'm a AI Researcher and Data Scientist working at [Inria Chile](https://inria.cl/en). I hold a Masters degree in Computer Science from [KAIST](https://www.kaist.ac.kr/en/) and a Bachelor degree in Engineering from [University of Chile](https://www.uchile.cl/english).  
 
 My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting.
 
-# [Publications](https://scholar.google.com/citations?user=0us_4VIAAAAJ&hl=en)
+[**Publications**](https://scholar.google.com/citations?user=0us_4VIAAAAJ&hl=en)
 
-+ [**Searching for changing-state AGNs in massive datasets--I: applying deep learning and anomaly detection techniques to find AGNs with anomalous variability behaviours**](https://arxiv.org/abs/2106.07660),  [code](https://github.com/hernanlira/CSAGN_paper1),  2021, ArXiv,
-
- Paula Sanchez-Saez, Hernan Lira, Luis Martí, Nayat Sanchez-Pi et al.
++ [**Searching for changing-state AGNs in massive datasets--I: applying deep learning and anomaly detection techniques to find AGNs with anomalous variability behaviours**](https://arxiv.org/abs/2106.07660),  [code](https://github.com/hernanlira/CSAGN_paper1),  2021, ArXiv, Paula Sanchez-Saez, Hernan Lira, Luis Martí, Nayat Sanchez-Pi et al.
 
 + [**Frost forecasting model using graph neural networks with spatio-temporal attention**](https://hal.inria.fr/hal-03259658/),  2021, AI: Modeling Oceans and Climate Change Workshop at ICLR 2021. Hernan Lira, Luis Martí, Nayat Sanchez-Pi.
 
