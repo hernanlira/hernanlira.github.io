@@ -13,6 +13,8 @@ Hi! Thank you for visiting my personal web page. I'm a Data Scientist working at
 
 My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting.
 
+Check it out these Inria projects in which I'm working on: [OceanIA](https://oceania.inria.cl/), [GreenAI](https://greenai.inria.cl/), [EMISTRAL](https://emistral.inria.cl/).
+
 [**Publications**](https://scholar.google.com/citations?user=0us_4VIAAAAJ&hl=en)
 
 + [**Searching for changing-state AGNs in massive datasets--I: applying deep learning and anomaly detection techniques to find AGNs with anomalous variability behaviours**](https://arxiv.org/abs/2106.07660),  [code](https://github.com/hernanlira/CSAGN_paper1),  2021, ArXiv, Paula Sanchez-Saez, Hernan Lira, Luis Martí, Nayat Sanchez-Pi et al.
