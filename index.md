@@ -11,7 +11,7 @@ layout: home
 ![Hernan](/assets/images/hernan.jpg){:class="img-responsive"}{:height="200px" width="200px"}{:style="float: right; margin-right: 5px"}
 Hi! Thank you for visiting my personal web page. I'm a Data Scientist working at [Inria Chile](https://inria.cl/en). I hold a Masters degree in Computer Science from [KAIST](https://www.kaist.ac.kr/en/) and a Bachelor degree in Engineering from [University of Chile](https://www.uchile.cl/english).  
 
-My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting.
+My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting tasks.
 
 Check it out these Inria projects in which I'm working on: [OceanIA](https://oceania.inria.cl/), [GreenAI](https://greenai.inria.cl/), [EMISTRAL](https://emistral.inria.cl/).
 
