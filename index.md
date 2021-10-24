@@ -17,7 +17,7 @@ Check it out these Inria projects in which I'm working on: [OceanIA](https://oce
 
 [**Publications**](https://scholar.google.com/citations?user=0us_4VIAAAAJ&hl=en)
 
-+ [**Searching for changing-state AGNs in massive datasets--I: applying deep learning and anomaly detection techniques to find AGNs with anomalous variability behaviours**](https://arxiv.org/abs/2106.07660),  [code](https://github.com/hernanlira/CSAGN_paper1),  2021, The Astronomical Journal, Paula Sanchez-Saez, Hernan Lira, Luis Martí, Nayat Sanchez-Pi et al.
++ [**Searching for changing-state AGNs in massive datasets--I: applying deep learning and anomaly detection techniques to find AGNs with anomalous variability behaviours**](https://arxiv.org/abs/2106.07660),  [code](https://github.com/hernanlira/CSAGN_paper1),  2021, The Astronomical Journal. Paula Sanchez-Saez, Hernan Lira, Luis Martí, Nayat Sanchez-Pi et al.
 
 + [**Frost forecasting model using graph neural networks with spatio-temporal attention**](https://hal.inria.fr/hal-03259658/),  2021, AI: Modeling Oceans and Climate Change Workshop at ICLR 2021. Hernan Lira, Luis Martí, Nayat Sanchez-Pi.
 
