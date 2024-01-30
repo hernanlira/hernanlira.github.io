@@ -9,13 +9,17 @@ layout: home
 ---
 
 ![Hernan](/assets/images/hernan.jpg){:class="img-responsive"}{:height="200px" width="200px"}{:style="float: right; margin-right: 5px"}
-Hi! Thank you for visiting my personal web page. I'm a Data Scientist and Researcher working at [Inria Chile](https://inria.cl/en). I hold a Masters degree in Computer Science from [KAIST](https://www.kaist.ac.kr/en/) and a Bachelor degree in Engineering from [University of Chile](https://www.uchile.cl/english).
+Hi there! I'm a Data Scientist and AI Researcher working at [Inria Chile](https://inria.cl/en). I hold a Masters degree in Computer Science from [KAIST](https://www.kaist.ac.kr/en/) and a Bachelor degree in Engineering from [University of Chile](https://www.uchile.cl/english).
 
-My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting tasks.
+My main interest is the development and application of deep learning as a tool for scientific discovery. Currently I'm working on problems from astronomy, biology and environmental sciences aiming to develop deep learning models for anomaly detection and forecasting tasks. I'm also working with LLMs from a scientific and engineering perspective.
 
 Check it out these Inria projects in which I'm working on: [OceanIA](https://oceania.inria.cl/), [GreenAI](https://greenai.inria.cl/), [EMISTRAL](https://emistral.inria.cl/).
 
 [**Publications**](https://scholar.google.com/citations?user=0us_4VIAAAAJ&hl=en)
+
+- [**Reinforcement-learning robotic sailboats: simulator and preliminary results**](https://inria.hal.science/hal-04395990/document), 6th Robot Learning Workshop NeurIPS 2023. 
+
+- [**Enhancing Writing Skills of Chilean Adolescents: Assisted Story Creation with LLMs**](https://inria.hal.science/hal-04395801/file/neurips_2023.pdf), Generative AI for education (GAIED) Workshop NeurIPS 2023. Hernan Lira, Luis Martí, Nayat Sanchez-Pi.
 
 - [**A Graph Neural Network with Spatio-temporal Attention for Multi-sources Time Series Data: An application to Frost Forecast**](https://www.mdpi.com/1424-8220/22/4/1486), 2022, Sensors. Hernan Lira, Luis Martí and Nayat Sanchez-Pi.
 
